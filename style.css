@@ -1,0 +1,27 @@
+.header{
+	font-family: 'Titillium Web', sans-serif;
+	color:#878889;
+	font-size: 250%;
+
+}
+.body{
+	font-family: 'Titillium Web', sans-serif;
+	color:#878889;
+	font-size: 15px;
+	width: 50%;
+	margin-left: 24%;
+	margin-bottom: 10%;
+}
+.all{
+	padding-top: 9%;
+	width: 100%;
+  margin: 0 auto;
+  margin-bottom: 10%;
+}
+a{
+	color:#878889;
+}
+.img-circle {
+    border-radius: 50%;
+    margin-left: 24%;
+}
