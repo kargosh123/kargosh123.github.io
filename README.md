@@ -1,3 +1,3 @@
 # neymikajain.github.io
 My personal website hopefully
-Based off of (http://navdiana.github.io/ "this beautiful website!")
+Based off of [this beautiful website](http://navdiana.github.io/)
